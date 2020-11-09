@@ -133,15 +133,15 @@ Acesse pelo seu navegador o endereço do seu servidor, no meu caso: `192.168.15.
 
 Selecione o idioma:
 
-![](/home/lucas/Documentos/Disciplinas 5 Período - IFTO/Infraestrutura de Sistemas Web/WordPress/wordpress-linguagem.png)
+![Escolher linguagem](wordpress-linguagem.png)
 
 Nessa etapa você deve escolher o título do seu site, o usuário para entrar no sistema de gerenciamendo, uma senha, seu e-mail e depois clicar em Install WordPress.
 
-![](/home/lucas/Documentos/Disciplinas 5 Período - IFTO/Infraestrutura de Sistemas Web/WordPress/wordpress-instalacao.png)
+![Instalação](wordpress-instalacao.png)
 
 Depois, vai aparecer uma tela onde você deve fazer login no sistema.
 
-![](/home/lucas/Documentos/Disciplinas 5 Período - IFTO/Infraestrutura de Sistemas Web/WordPress/wordpress-admin.png)
+![Administrador](wordpress-admin.png)
 
 
 
